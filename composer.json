@@ -1,0 +1,19 @@
+{
+    "name": "t430/api_customers",
+    "autoload": {
+        "psr-4": {
+            "app\\core\\": "core/"
+        },
+        "files": [
+            "core/auth.php",
+            "core/helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "thiagorm99",
+            "email": "139011190+thiagorm99@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
